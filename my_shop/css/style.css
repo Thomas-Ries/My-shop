@@ -1,0 +1,220 @@
+/* General reset */
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    font-size: 10px;
+    font-family: Roboto, Montserrat, sans-serif;
+}
+
+/* CONTAINER GLOBAL */
+.general-container {
+    max-width: 1200px;
+    margin: auto;
+} 
+
+/* BARRE DE RECHERCHE */
+.search-container {
+  padding-top: 5.87rem;
+  display: flex;
+  justify-content: space-between;
+  max-width: 1200px;
+}
+
+.filter_responsive {
+    display: none;
+}
+
+#best_match {
+    width:27.43rem;
+    font-family: Robot,Montserrat,sans-serif;
+    border-left:none ;
+    border-right:none;
+    border-top:none;
+    border-bottom-width: medium;
+    border-bottom-color: rgb(197, 193, 193);
+    border-bottom-style: solid;
+    background: transparent;
+    font-size: large;
+    outline-style: none; 
+}
+
+#site-search {
+    background: transparent;
+    border-top:  none;
+    border-bottom: solid;
+    border-left: none;
+    border-right:none;
+    width:87rem;
+    padding-bottom: 0.78rem;
+    font-family: Roboto,Montserrat,sans-serif;
+    margin-right: 7.05rem;
+    margin-left: 3.91rem;
+    font-size: large;
+    font-weight: bold;
+    outline-style: none;
+}
+
+/* DEBUT FLEX CACTUS */
+.container-flex-cactus {
+    display: flex;
+    flex-direction: row;
+    padding-top: 3rem;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 1200px;
+}
+
+/* FILTER MENU */
+h3 {
+    font-size: 1.3rem;
+    color: lightgray;
+    margin-top: 1.5rem;
+}
+
+.accordion {
+    width: 29rem;
+    height: 29rem;
+}
+
+#accordionExample {
+    border: none;
+    background-color: #A0B136;
+    height: 28.1rem;
+}
+/* NOM DES TITRES */
+.card-header {
+    background-color: #73BA81;
+}
+
+.btn-link {
+    color: #FFF;
+    font-size: 1.4rem;
+}
+
+.btn-link:hover {
+    color: #000;
+    text-decoration: none;
+    transform: color .3s;
+    font-weight: 800;
+}
+
+.btn-link:focus {
+    text-decoration: none;
+}
+/* ITEMS DU MENU DEROULANT */
+.card-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.card-body a {
+    color: #000;
+    font-size: 1.5rem;
+    line-height: 2.4rem;
+}
+
+.card-body a:hover {
+    text-decoration: none;
+    color: grey;
+    font-weight: bold;
+}
+
+
+/* PRICETAG */
+label {
+    font-size: 1.2rem;
+    color: grey;
+    margin-top: 1.4rem;
+    padding-right: 1rem;
+}
+
+input[type="range"] {
+    margin-top: .5rem;
+    height: .1rem;
+    width: 29rem;
+}
+
+.euros {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 29rem;
+}
+
+.euros p {
+    font-size: 1.2rem;
+}
+
+
+/* CACTUS */
+.box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container {
+    max-width: 30rem;
+    max-height: 42rem;
+    margin: auto;
+    padding-left: 1.2rem;
+}
+
+.container .cactus {
+    height: 25rem;
+    width: 30rem;
+}
+
+.colonne1 {
+    padding: 0.5rem 1.6rem;
+}
+
+.box .colonne1 h2 {
+    font-size: 1.6rem;
+    font-weight: 700;
+}
+
+.box .colonne1 h3 {
+    padding-top: 0.8rem;
+    padding-bottom: 0.6rem;
+    text-transform: uppercase;
+    font-size: 1.4rem;
+    font-weight: 300;
+    color: rgb(153, 153, 153);
+}
+
+.colonne2 {
+    padding: 0.5rem 1.6rem;
+    text-align: right;
+}
+
+.colonne2 p {
+    font-size: 1.6rem;
+    font-weight: 400;
+    color: rgb(59, 58, 58);
+}
+
+.colonne2 img {
+    padding-top: 1.2rem;
+}
+
+.colonne2 img:hover {
+  transition: ease-in-out 0.5s;
+  transform: scale(1.2);
+  transform: rotate(5deg);
+}
+
+.box .colonne1 h3 {
+    padding-top: 0.8rem;
+    padding-bottom: 0.6rem;
+    text-transform: 
+    uppercase;
+    font-weight: 300;
+    color: rgb(153, 153, 153);
+}
+
+
+
+
+
+

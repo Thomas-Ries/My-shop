@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    font-size: 10px;
+    font-family: Roboto, Montserrat, sans-serif;
+}
+
+/* CONTAINER GLOBAL */
+.general-container {
+    max-width: 1200px;
+    margin: auto;
+} 
+
+.text-center p {
+    font-size: 1.4rem;
+}
+
+/* .carousel-item{ */
+    /* height: 50rem; */
+    /* width: 65rem; */
+/* } */
+
+.carousel{
+    height: 20%; 
+    width: 50%; 
+    margin-top: 5rem;
+    margin-left: 28rem;
+}
+
+.card{
+    border: none;
+}
+
+.card-presentation{
+    margin-top: 3rem;
+    margin-bottom:3rem;
+}
+
+.card-presentation h1 {
+    margin-bottom: 1rem;
+    font-size: 1.9rem;
+    font-weight: 800;
+}
+
+.card-title{
+    margin-top: 1.5rem;
+    font-size: 1.7rem;
+}
+
+.card-text{
+    margin-top:1rem;
+    font-size: 1.4rem;
+}

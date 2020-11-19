@@ -1,0 +1,122 @@
+/* TOP BAR */
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    font-size: 10px;
+    font-family: Roboto, Montserrat, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#hamburger {
+    display: none;
+}
+
+.topbar {
+    font-weight: 500;
+    font-size: 1.4rem;
+    margin-top: -1.5rem;
+}
+
+.topbar_container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.topbar-connexion {
+    display: flex;
+}
+  
+.topbar ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.topbar_nav a {
+    color: #000;
+    text-decoration: none;
+    font-size: 1.4rem;
+    padding: 0.5rem;
+    margin-left: 2.5rem;
+}
+  
+.topbar_nav a:hover {
+    color: #767676;
+    transition: color .5s;
+    font-weight: 800;
+    border-bottom: 2px solid grey;
+}
+
+.topbar_cart {
+    margin-right: -2rem;
+}
+
+
+.topbar_cart a {
+    padding: 0;
+    text-decoration: none;
+}
+
+.topbar_cart img:hover {
+    transition: ease-in-out 0.5s;
+    transform: scale(1.2);
+    transform: rotate(5deg);
+    border-bottom: none;
+}
+
+.topbar_cart .btn {
+    text-decoration: none;
+}
+
+.topbar_cart a {
+    color: #000;
+    text-decoration: none;
+    font-size: 1.4rem;
+    margin-left: -2rem;
+}
+
+
+/* MON COMPTE DEROULANT */
+.dropdown {
+    margin-left: 2rem;
+}
+
+.dropdown .btn {
+    line-height: 2rem;
+    width: 15rem;
+}
+
+.btn-secondary {
+    font-size: 1.4rem;
+    background-color: #fff;
+    color: #000;
+    border: none;
+}
+
+.btn-secondary:hover{
+    background-color: #fff;
+    color: grey;
+}
+
+.dropdown-menu {
+    margin: 0;
+    text-align: center;
+}
+
+.dropdown-menu.show {
+    width: 15rem;
+}
+
+.dropdown-item {
+    text-align: center;
+    margin-left: .2rem !important;
+}
+
+.dropdown-item:hover {
+    background-color: transparent;
+    color: #767676;
+}

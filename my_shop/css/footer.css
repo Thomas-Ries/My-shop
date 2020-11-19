@@ -1,0 +1,47 @@
+.footer-social{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #73BA81;
+    margin-top: 5rem;
+}
+
+.footer-social p {
+    font-size: 1.4rem;
+}
+
+.adress {
+    padding-left: 3rem;
+    line-height: .6rem;
+    padding-top: 1rem;
+}
+
+.ouverture {
+    line-height: .9rem;
+    padding-top: 1.8rem;
+}
+/* 
+.ouverture p {
+    text-justify: auto;
+} */
+
+.social-network {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 2rem;
+    line-height: .6rem;
+    padding-top: 2rem;
+}
+
+.social-network p {
+    padding-right: 1rem;
+    padding-top: 1.3rem;
+}
+
+.social-network i {
+    padding-right: 1.5rem;
+    font-size: 3rem;
+    color: #000;
+}
+

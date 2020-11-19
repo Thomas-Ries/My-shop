@@ -1,0 +1,45 @@
+/* PAGINATION */
+.container_pages {
+    display: flex;
+    justify-content: space-between;
+    max-width: 73rem;
+    max-height: 4rem;
+    padding-top: 4rem;
+    margin-bottom: 4rem;
+    /* margin-left: 30rem; */
+}
+.container_pages input {
+    width: 4.1rem;
+    height: 3.9rem;
+    background-color: #FFF;
+    color: #000;
+    border: none;
+    transition: all .9s ease-out;
+    border: solid 1px transparent;
+    outline: none;
+    font-size: 1.2rem;
+}
+
+/* .container_pages input:visited {
+    color: #000;
+    background-color: lightgreen;
+} */
+
+/* .container_pages input:first-child {
+    color: #FFF;
+    background-color: #000;
+} */
+
+.container_pages input:hover {
+    color: #FFF;
+    background-color: #000;
+}
+
+.container_pages i {
+    padding-top: 1.5rem;
+    /* padding-left: 3em; */
+}
+
+.responsive_pages {
+    display: none;
+}

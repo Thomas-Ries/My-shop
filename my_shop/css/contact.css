@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    font-size: 10px;
+    font-family: Roboto, Montserrat, sans-serif;
+}
+
+.general-container {
+    max-width: 1200px;
+    margin: auto;
+} 
+
+.contact{
+    margin-top: 8rem;
+    margin-left: 40rem;
+    height: 55rem;
+}
+
+.contact-container {
+    padding-right: 2rem;
+    /* border: 2px solid, lightgreen; */
+}
+
+.contact-container h2 {
+    text-align: center;
+    font-weight: 600;
+    text-decoration: underline;
+    padding-top: 1rem;
+}
+
+label {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+    font-size: 1.6rem;
+    height: 2rem;
+}
+
+.form-control {
+    height: 4rem;
+    border: 2px solid #000;
+}
+
+button {
+    width: 100%;
+    height: 3rem;
+    margin-top: 1.3rem;
+}
+
+.btn-primary {
+    background-color: #567BA6;
+    border: none;
+    font-size: 1.7rem;
+    font-weight: 600;
+}
+  
+.btn-primary:hover {
+    background-color: #3A89A2;
+}
+  
+.btn-primary a:hover {
+    color: #fff;
+}
+
+iframe {
+    margin-top: .8rem;
+    margin-left: 20rem;
+    margin-bottom: 1.3rem;
+}

@@ -1,0 +1,9 @@
+img {
+    float: left;
+}
+
+.navbar-brand{
+    margin-top: 0.2rem;
+    margin-bottom: 0rem;
+    font-weight: 600;
+}

@@ -1,0 +1,132 @@
+body {
+  /* background-color: green; */
+  font-family: Roboto, Montserrat, sans-serif;
+}
+
+/* CONTAINER GLOBAL */
+.general-container {
+  max-width: 1200px;
+  margin: auto;
+} 
+
+.container_signUp {
+  margin-bottom: 5rem;
+  margin-top: 8rem;
+}
+
+.container_signUp {
+  /* border: 1px solid black; */
+  height: 48rem;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 10rem;
+}
+
+.alert-info {
+  margin-top: 1rem;
+  background-color: #567BA6;
+  color: #FFF;
+}
+
+.alert-info p {
+  font-size: 1.4rem;
+  text-align: center;
+  padding-top: 1rem;
+  font-weight: 600;
+}
+
+label{
+  font-size: 1.4rem;
+}
+
+.form-check-label  {
+  margin-left: 1rem;
+}
+
+.connexionParagraph {
+  margin-top: 1.5rem;
+  font-size: 1.4rem;
+}
+
+.btn a {
+  text-decoration: none;
+  color: #000;
+}
+
+.btn-primary {
+  background-color: #567BA6;
+  border: none;
+  font-size: 1.7rem;
+  font-weight: 600;
+}
+
+.btn-primary:hover {
+  background-color: #3A89A2;
+}
+
+.btn-primary a:hover {
+  color: #fff;
+}
+
+.btn-outline-success a {
+  color: #FFF;
+  font-size: 1.7rem;
+
+}
+
+.btn-outline-success {
+  background-color: #174D4C;
+  color: #FFF;
+  border: none;
+  font-weight: 600;
+}
+
+.btn-outline-success:hover {
+  background-color: #017D65;
+}
+
+.btn-outline-success a:hover {
+  color: #FFF;
+} 
+
+.footer {
+  display: flex;
+  flex-direction: column;
+}
+
+
+@media (max-width: 812px) {
+
+.container_signUp {
+  border: none;
+  width: auto;
+  height: 30rem;
+  margin-top: 2rem;
+}
+
+.btn {
+  margin-top: 0.1rem;
+  margin-left: 7rem;
+  margin-right: auto;
+}
+
+p {
+  margin-top: 1rem;
+  margin-bottom: 0.1rem;
+}
+
+.alert-info {
+  margin-top: 1rem;
+}
+
+.alert-info p {
+  font-size: 1rem;
+  margin-top: -1rem;
+  text-align: center;
+  font-weight: 600;
+}
+
+.footer {
+  display: block;
+}
+}
