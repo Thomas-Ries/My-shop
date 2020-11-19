@@ -27,7 +27,7 @@ I was assigned to the Front-End part.
 
 # To come
 - Mobile responsive
-- Entire desktop size
+- Entire desktop size responsive
 
 
 ![alt tag](https://user-images.githubusercontent.com/73991398/99702511-2807e880-2a96-11eb-8345-06b25aeb115f.png)
