@@ -17,7 +17,7 @@ First small project in group during my studies
 
 # Informations
 Project build with 3 other students in 4 days at the beggining of our courses.
-I was assigned to the Front-End work.
+I was assigned to the Front-End part.
 
 # Collegues
 - Mathilde LACHENAUD
