@@ -34,3 +34,4 @@ I was assigned to the Front-End part.
 
 ![alt tag](https://user-images.githubusercontent.com/73991398/99700148-183ad500-2a93-11eb-916a-71ada4c1c193.png)
 
+![alt tag](https://user-images.githubusercontent.com/73991398/99700534-97c8a400-2a93-11eb-9268-f81a817d2f4c.png)
