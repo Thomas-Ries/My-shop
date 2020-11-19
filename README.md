@@ -30,8 +30,8 @@ I was assigned to the Front-End part.
 - Entire desktop size
 
 
-![alt tag](https://user-images.githubusercontent.com/73991398/99700238-31dc1c80-2a93-11eb-8ff6-c69b2e01b4e8.png)
+![alt tag](https://user-images.githubusercontent.com/73991398/99702511-2807e880-2a96-11eb-8345-06b25aeb115f.png)
 
-![alt tag](https://user-images.githubusercontent.com/73991398/99700148-183ad500-2a93-11eb-916a-71ada4c1c193.png)
+![alt tag](https://user-images.githubusercontent.com/73991398/99702530-30f8ba00-2a96-11eb-86ab-7901c5db3ade.png)
 
-![alt tag](https://user-images.githubusercontent.com/73991398/99700534-97c8a400-2a93-11eb-9268-f81a817d2f4c.png)
+![alt tag](https://user-images.githubusercontent.com/73991398/99702600-48d03e00-2a96-11eb-92f8-23d4066bd28f.png)
