@@ -19,6 +19,11 @@ First small project in group during my studies
 Project build with 3 other students in 4 days at the beggining of our courses.
 I was assigned to the Front-End work.
 
+# Collegues
+- Mathilde LACHENAUD
+- Jérémie VALDENAIRE
+- Arnaud MATHJIS
+
 
 # To come
 - Mobile responsive
