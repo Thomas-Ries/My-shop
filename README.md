@@ -22,7 +22,7 @@ I was assigned to the Front-End part.
 # Collegues
 - Mathilde LACHENAUD
 - Jérémie VALDENAIRE --> https://github.com/CptIceberg
-- Arnaud MATHJIS
+- Arnaud MATHJIS --> https://github.com/mathilde-lcnd
 
 
 # To come
