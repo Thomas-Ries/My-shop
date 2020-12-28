@@ -12,7 +12,7 @@ First small project in group during my studies
 # Framework used
 - Bootstrap via cdn
 
-# Font
+# Icons
 - Fontawesome
 
 # Informations
