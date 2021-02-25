@@ -4,7 +4,7 @@ First small project in group during my studies
 # Date
 17th October 2020
 
-# Langage used
+# Languages used in Front
 - HTML 5
 - CSS 3
 - PHP
